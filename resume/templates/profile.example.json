@@ -1,0 +1,13 @@
+{
+  "name": "Your Full Name",
+  "default_role_line": "Your official job title – Team",
+  "contact": ["City", "+91 00000 00000", "you@example.com", "linkedin.com/in/your-handle", "your-site.example"],
+  "company_line": "Your Company Limited · N years",
+  "education": [
+    {"title": "Degree, Field", "dates": "2012 – 2014", "place": "Institution, City"}
+  ],
+  "certifications": "Certificate (Issuer, Year) · Certificate (Issuer, Year)",
+  "languages": "Language (native), Language (professional working)",
+  "hobbies": "Hobby, hobby",
+  "forbidden_phrases": ["owned the", "led a team", "managed a team"]
+}

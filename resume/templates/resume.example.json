@@ -1,0 +1,31 @@
+{
+  "file_name": "Resume_Your_Name_Company_Role",
+  "role_line": "Your official job title – Team",
+  "summary": [
+    "Paragraph 1: who you are, years of experience, the one thing you know best.",
+    "Paragraph 2: what you have built or changed, with numbers. Closing line names the JD's role and sector."
+  ],
+  "skills": [
+    ["Label using the JD's own phrase", "What you actually did, in plain words"],
+    ["Another JD phrase", "Evidence"]
+  ],
+  "tools": "Excel, SQL, Power BI",
+  "experience": [
+    {
+      "title": "Job title | Team",
+      "dates": "Apr 2024 – Present | City",
+      "intro": "Optional one-line context.",
+      "bullets": ["What you did and the result, with a number."]
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Project name, one-line description",
+      "date": "2026",
+      "link": "your-project.example",
+      "bullets": ["What it does and what you did on it."]
+    }
+  ],
+  "order": ["experience", "portfolio"],
+  "jd_keywords": ["Exact phrase from JD", "Another exact phrase"]
+}
