@@ -1,4 +1,8 @@
-# AI skills by Sameer Mittimani
+# AI skills, agents and prompts by Sameer Mittimani
+
+Also in this repo: [9 Claude Code agents](agents/) and [6 question-led prompts](prompts/) for ChatGPT, Gemini or Claude.
+
+## Skills
 
 Nine AI skills (for Claude) I built for my own work in auto finance, product management and a few hobbies. Each folder is one skill. Drop a folder into `~/.claude/skills/` (Claude Code) or zip it and upload it in claude.ai under Settings → Capabilities → Skills.
 
